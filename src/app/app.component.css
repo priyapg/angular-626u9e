@@ -1,0 +1,14 @@
+p {
+  font-family: sans-serif;
+}
+p.para{
+  color: darkcyan;
+  font-size: 20px;
+
+}
+input.demo {
+  border: 2px solid salmon;
+  width: 200px;
+  height: 20px;
+  font-size: 15px;
+}
